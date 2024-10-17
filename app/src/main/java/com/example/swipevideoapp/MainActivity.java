@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
 
         VideoItem videoBikePark = new VideoItem();
         videoBikePark.videoURL ="https://firebasestorage.googleapis.com/v0/b/swipe-video-app-stuffs.appspot.com/o/DUTHIE%20CLIP.mp4?alt=media&token=ae672945-cb37-4d46-a74c-001c82b25945";
-        videoBikePark.videoTitle = "2nd gen spotted at bike park";
+        videoBikePark.videoTitle = "2nd gen spotted at bike park   ID: 003";
         videoBikePark.videoDescription = "About to go ride at duthie MTB park";
         videoItemsList.add(videoBikePark);
 
